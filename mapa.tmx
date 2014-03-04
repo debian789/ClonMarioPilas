@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="batalhao" tilewidth="32" tileheight="32">
+  <image source="comida/data/batalhao.png" width="512" height="96"/>
+ </tileset>
+</map>
